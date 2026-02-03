@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alwayChina
 - 👀 I’m interested in Java
-- 🌱 I’m currently learning big data
+- 🌱 I’m currently learning cooking
 - 💞️ I’m looking to collaborate on develop
 - 📫 How to reach me alwayChina@gmail.com
 
